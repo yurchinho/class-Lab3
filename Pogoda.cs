@@ -49,7 +49,7 @@ namespace LAB3
         {
             for(int i = 0; i < arr.Length; i++)
             {
-                Console.WriteLine("######################################################");
+                Console.WriteLine("#####################################################");
                 Console.WriteLine("\tВивід " + (i + 1) + "записа");
                 Console.Write("Рік:\t\t" + arr[i].year + "\nКоментарій:\t" + arr[i].comment);
                 Console.WriteLine("\n");
